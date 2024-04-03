@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @pavankumarr17
+- 👋 Hi, I’m @pavankumarr17, DATA ENGINEER
 - 👀 I’m interested in learning new skills and update myself with knowledge
-- 🌱 I’m currently learning REST APIs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rpavankumar17@gmail.com
 
